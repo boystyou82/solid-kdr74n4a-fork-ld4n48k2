@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/boystyou82.solid-kdr74n4a-fork-ld4n48k2",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve vdAOGT4Zz2d83WMwZ59K --open"
+  }
+}
